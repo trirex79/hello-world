@@ -1,4 +1,4 @@
 # hello-world
 my repository
 
-I'm average.
+I'm normal and average.
